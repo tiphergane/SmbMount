@@ -3,7 +3,7 @@
 # version: 2.1
 # Auteur: tiphergane/meoowrwa
 # Synopsis: Pour vérifier si le protocol SMBv1 est activé ou non, et modifier la configuration le cas échéant.
-# Usage: ajoutez les points de montages un par un dans les deux boucles. Il faut utiliser le mode administrateur obligatoirement
+# Usage: ajoutez les points de montages un par un dans la foncion MountDir. Il faut utiliser le mode administrateur obligatoirement
 # Si vous ne voulez ne plus avoir la question sur l'execution, dans un powershell elevé (en mode admin) tapez: Set-ExecutionPolicy Unrestricted
 ######################################################################
 
